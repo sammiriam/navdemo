@@ -64,8 +64,8 @@
     "tit": "常用",
     "list": [
       {
-        "name": "SegmentFault",
-        "url": "https://segmentfault.com/"
+        "name": "stackoverflow",
+        "url": "http://stackoverflow.com/"
       },
       {
         "name": "chiphell",
